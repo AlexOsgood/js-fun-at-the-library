@@ -41,10 +41,6 @@ function editBook(book) {
 
 
 
-
-
-
-
 module.exports = {
   createTitle,
   buildMainCharacter,
