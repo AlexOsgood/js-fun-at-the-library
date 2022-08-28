@@ -36,7 +36,6 @@ function writeBook(bookTitle, bookCharacter, type) {
 
 function editBook(book) {
    book.pageCount = book.pageCount * .75
-
 }
 
 
